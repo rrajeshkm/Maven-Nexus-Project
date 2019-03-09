@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.1.162:8081/repository/helpsound-REL/</url>
+            <url>http://192.168.43.209:8081/repository/helpsound-REL/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.1.162:8081/repository/helpsound-SNAP/</url>
+            <url>http://192.168.43.209:8081/repository/helpsound-SNAP/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
